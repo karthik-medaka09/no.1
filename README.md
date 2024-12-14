@@ -1,2 +1,2 @@
 ## no.1
-registration form using html
+## Registration form using html
